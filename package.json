@@ -1,0 +1,22 @@
+{
+  "name": "glip-plus-dist",
+  "version": "1.0.0",
+  "description": "Glip Plus is [Glip](https://glip.com) with extra features.",
+  "main": "index.js",
+  "scripts": {
+    "dmg": "cd appdmg && appdmg appdmg.json Glip Plus.dmg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerlong/glip-plus-dist.git"
+  },
+  "author": "Tyler Long <tyler4long@gmail.com> (https://github.com/tylerlong)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tylerlong/glip-plus-dist/issues"
+  },
+  "homepage": "https://github.com/tylerlong/glip-plus-dist#readme",
+  "devDependencies": {
+    "appdmg": "^0.4.5"
+  }
+}
