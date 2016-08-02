@@ -14,9 +14,9 @@ If the app has focus and there is a chat window, it will upload the screenshot a
 
 If the app doesn't have focus, the screenshot is saved into your pasteboard. You can paste it anywhere you would like.
 
-During screenshot, press space key to toggle between mouse selection and window selection modes
+During screenshot, press <kbd>space</kbd> to toggle between mouse selection and window selection modes
 
-Press escape key to cancel screenshot.
+Press <kbd>escape</kbd> to cancel screenshot.
 
 
 
