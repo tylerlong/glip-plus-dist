@@ -6,7 +6,7 @@ Glip Plus is [Glip](https://glip.com) with extra features.
 
 ## Screenshot hotkey
 
-Alt + Shift + S
+<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>
 
 Please the hotkey above and drag your mouse to take a screenshot.
 
@@ -22,7 +22,7 @@ Press escape key to cancel screenshot.
 
 ## Activate hotkey
 
-Ctrl + Command + Alt + G
+<kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>
 
 This hotkey can bring the app to the front of all other apps and position it to the central of your screen, even if the app is miniaturized.
 
