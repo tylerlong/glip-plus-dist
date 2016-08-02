@@ -1,0 +1,10 @@
+{
+  "title": "Glip Plus",
+  "icon": "glip-plus.icns",
+  "background": "background.png",
+  "icon-size": 96,
+  "contents": [
+    { "x": 128, "y": 160, "type": "file", "path": "Glip Plus.app" },
+    { "x": 384, "y": 160, "type": "link", "path": "/Applications" }
+  ]
+}
