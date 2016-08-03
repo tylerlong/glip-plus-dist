@@ -4,7 +4,7 @@ Glip Plus is [Glip](https://glip.com) with extra features.
 
 
 
-## Screenshot hotkey
+## Screenshot
 
 <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>
 
@@ -33,3 +33,11 @@ This hotkey can bring the app to the front of all other apps and position it to 
 Whenever there are new versions available, the app will alert you to upgrade.
 
 You can also choose to let it upgrade automatically in background.
+
+
+
+## Upcoming features
+
+- Send markdown with preview as image
+- Screen recording
+- Enhancement: After screenshot, allow user to edit. (similar to QQ screenshot)
