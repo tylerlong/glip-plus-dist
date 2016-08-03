@@ -4,7 +4,7 @@
   "description": "Glip Plus is [Glip](https://glip.com) with extra features.",
   "main": "index.js",
   "scripts": {
-    "dmg": "cd appdmg && appdmg appdmg.json Glip Plus.dmg"
+    "dmg": "cd appdmg && appdmg appdmg.json Glip\\ Plus.dmg"
   },
   "repository": {
     "type": "git",

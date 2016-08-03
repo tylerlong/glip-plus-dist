@@ -6,12 +6,13 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.1 (initial release)</title>
+            <title>Version 0.1.0 (initial release)</title>
             <sparkle:releaseNotesLink>
-                https://github.com/tylerlong/glip-plus-dist/blob/gh-pages/releases/0.1.md
+                https://github.com/tylerlong/glip-plus-dist/blob/gh-pages/releases/0.1.0.md
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 03 Aug 2016 10:00:00 +0000</pubDate>
-            <enclosure url="http://you.com/app/Your%20Great%20App%202.0.zip" sparkle:version="0.1" length="1623481" type="application/octet-stream" sparkle:dsaSignature="BAFJW4B6B1K1JyW30nbkBwainOzrN6EQuAh" />
+            <enclosure url="https://tylerlong.github.io/glip-plus-dist/releases/Glip-Plus-0.1.0.dmg" sparkle:version="0.1.0" length="3218922"
+                type="application/octet-stream" sparkle:dsaSignature="MCwCFAr9hBxeCZj7U9zwRGJaF4AS4VxkAhRq4xTdJxvsDlNMwEOdUppvtoupLA==" />
             <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
         </item>
     </channel>
