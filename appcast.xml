@@ -6,13 +6,13 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.1.0 (initial release)</title>
+            <title>Version 0.2.0 (initial release)</title>
             <sparkle:releaseNotesLink>
-                https://github.com/tylerlong/glip-plus-dist/blob/gh-pages/releases/0.1.0.md
+                https://github.com/tylerlong/glip-plus-dist/blob/gh-pages/releases/0.2.0.md
             </sparkle:releaseNotesLink>
-            <pubDate>Wed, 03 Aug 2016 10:00:00 +0000</pubDate>
-            <enclosure url="https://tylerlong.github.io/glip-plus-dist/releases/Glip-Plus-0.1.0.dmg" sparkle:version="0.1.0" length="3218922"
-                type="application/octet-stream" sparkle:dsaSignature="MCwCFDe46Xcvz/DpcLRmiGfq7Ebwhw/FAhQGAtdQPFYBURjIzyuedVl5P7nOcw==" />
+            <pubDate>Wed, 03 Aug 2016 20:00:00 +0000</pubDate>
+            <enclosure url="https://tylerlong.github.io/glip-plus-dist/releases/Glip-Plus-0.2.0.dmg" sparkle:version="0.2.0" length="3220966"
+                type="application/octet-stream" sparkle:dsaSignature="MCwCFGg/cifG3MhWt+dSrufTyU+Rr7hjAhQ4Y6HCji1/OtDnVV5xlxvVukwBTQ==" />
             <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
         </item>
     </channel>
