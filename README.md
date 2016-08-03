@@ -2,7 +2,7 @@
 
 ![Glip Plus](images/icon.png)
 
-Glip Plus is [Glip](https://glip.com) with extra features.
+Glip Plus is a [Glip](https://glip.com) Mac app with extra features.
 
 
 
