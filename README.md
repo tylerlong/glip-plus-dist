@@ -6,19 +6,19 @@ Glip Plus is [Glip](https://glip.com) with extra features.
 
 
 
-## Download
+## Install
 
 ### :point_right: [download](https://tylerlong.github.io/glip-plus-dist/releases/Glip-Plus-0.1.0.dmg) :point_left:
 
-
-
-## Install
+Then follow the instructions below:
 
 ![install](images/install.png)
 
 
 
 ## Screenshot feature
+
+![screenshot](images/screenshot.gif)
 
 <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>
 
