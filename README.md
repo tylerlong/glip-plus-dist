@@ -12,7 +12,13 @@ Glip Plus is [Glip](https://glip.com) with extra features.
 
 
 
-## Screenshot
+## Install
+
+![install](images/install.png)
+
+
+
+## Screenshot feature
 
 <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>
 
