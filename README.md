@@ -1,6 +1,10 @@
 # Glip Plus
 
+![Glip Plus](icon.png)
+
 Glip Plus is [Glip](https://glip.com) with extra features.
+
+Please [download](https://tylerlong.github.io/glip-plus-dist/releases/Glip-Plus-0.1.0.dmg) it to enjoy!
 
 
 
