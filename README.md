@@ -54,7 +54,7 @@ This hotkey brings the app to the front of all other apps and position it to the
 
 Whenever there are new versions available, the app will alert you to upgrade.
 
-You can also choose to let it upgrade automatically in background.
+You can also let it automatically download and install updates.
 
 ![update](images/update.png)
 
@@ -63,5 +63,5 @@ You can also choose to let it upgrade automatically in background.
 ## Upcoming features
 
 - Send markdown with preview as image
-- Enhancement: After screenshot, allow user to edit. (similar to QQ screenshot)
+- Enhancement: after screenshot, allow user to edit. (similar to QQ screenshot)
 - Send video as animated gif
