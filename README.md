@@ -34,6 +34,14 @@ Press <kbd>escape</kbd> to cancel screenshot.
 
 
 
+## Screen recording feature
+
+Click the Screen Recording toolbar item to recording your screen.
+
+The result is saved onto your desktop as `.mov` file.
+
+
+
 ## Activate hotkey
 
 <kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>
@@ -53,5 +61,4 @@ You can also choose to let it upgrade automatically in background.
 ## Upcoming features
 
 - Send markdown with preview as image
-- Screen recording
 - Enhancement: After screenshot, allow user to edit. (similar to QQ screenshot)
