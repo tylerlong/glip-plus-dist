@@ -6,5 +6,8 @@
   "contents": [
     { "x": 128, "y": 160, "type": "file", "path": "Glip Plus.app" },
     { "x": 384, "y": 160, "type": "link", "path": "/Applications" }
-  ]
+  ],
+  "window": {
+    "position": { "x": 512, "y": 512 }
+  }
 }
