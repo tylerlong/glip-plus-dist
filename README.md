@@ -1,8 +1,8 @@
 # Glip Plus
 
-![Glip Plus](images/icon.png)
-
 Glip Plus provides extra features to [Glip](https://glip.com).
+
+![Glip Plus](images/icon.png)
 
 
 
@@ -18,27 +18,27 @@ Then follow the instructions below:
 
 ## Screenshot feature
 
-![screenshot](images/screenshot.gif)
+Press <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> to start screenshot.
 
-<kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>
+Press <kbd>space</kbd> to toggle between mouse selection and window selection modes.
 
-Please the hotkey above and drag your mouse to take a screenshot.
+Press <kbd>escape</kbd> to cancel screenshot.
 
 If the app has focus and there is a chat window, it will upload the screenshot automatically.
 
 If the app doesn't have focus, the screenshot is saved into your pasteboard. You can paste it anywhere you would like.
 
-During screenshot, press <kbd>space</kbd> to toggle between mouse selection and window selection modes
-
-Press <kbd>escape</kbd> to cancel screenshot.
+![screenshot](images/screenshot.gif)
 
 
 
 ## Screen recording feature
 
-Click the Screen Recording toolbar item to recording your screen.
+Start recording by clicking the "Screen Recording" button in the toolbar.
 
-The result is saved onto your desktop as `.mov` file.
+End recording by clicking the stop button in the menu bar.
+
+The result file will be saved onto your desktop in `.mov` format.
 
 
 
@@ -46,7 +46,7 @@ The result is saved onto your desktop as `.mov` file.
 
 <kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>
 
-This hotkey can bring the app to the front of all other apps and position it to the central of your screen, even if the app is miniaturized.
+This hotkey brings the app to the front of all other apps and position it to the central of your screen, even if the app is miniaturized.
 
 
 
@@ -56,9 +56,12 @@ Whenever there are new versions available, the app will alert you to upgrade.
 
 You can also choose to let it upgrade automatically in background.
 
+![update](images/update.png)
+
 
 
 ## Upcoming features
 
 - Send markdown with preview as image
 - Enhancement: After screenshot, allow user to edit. (similar to QQ screenshot)
+- Send video as animated gif
