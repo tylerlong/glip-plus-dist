@@ -44,11 +44,11 @@ The result file will be saved onto your desktop in `.mov` format.
 
 ![screen recording](images/screen-recording.png)
 
-##### How does it work?
+#### How does it work?
 
 It automates QuickTime Player to record your screen.
 
-##### Why not use QuickTime Player instead?
+#### Why not use QuickTime Player instead?
 
 With Glip Plus, you can make a screen recording by simply 3 mouse clicks,
 which is much more convenient than using QuickTime Player directly.
