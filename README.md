@@ -38,9 +38,11 @@ Start recording by clicking the "Screen Recording" button in the toolbar.
 
 End recording by clicking the stop button in the menu bar.
 
+Please note that: click ![stop recording](images/stop-recording.png) **instead** of ![gear](images/gear.png) to end recording.
+
 The result file will be saved onto your desktop in `.mov` format.
 
-![screen recording](./images/screen-recording.png)
+![screen recording](images/screen-recording.png)
 
 
 
