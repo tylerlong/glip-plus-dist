@@ -40,6 +40,8 @@ End recording by clicking the stop button in the menu bar.
 
 The result file will be saved onto your desktop in `.mov` format.
 
+![screen recording](./images/screen-recording.png)
+
 
 
 ## Activate hotkey
