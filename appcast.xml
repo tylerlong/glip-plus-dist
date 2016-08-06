@@ -6,11 +6,21 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 0.4.0 (2 breaking changes, 2 new features, 2 bug fixes)</title>
+            <sparkle:releaseNotesLink>
+                https://raw.githubusercontent.com/tylerlong/glip-plus-dist/gh-pages/releases/0.4.0.md
+            </sparkle:releaseNotesLink>
+            <pubDate>Sat, 06 Aug 2016 18:00:00 +0000</pubDate>
+            <enclosure url="https://tylerlong.github.io/glip-plus-dist/releases/Glip-Plus-0.4.0.dmg" sparkle:version="4" sparkle:shortVersionString="0.4.0" length="3227541"
+                type="application/octet-stream" sparkle:dsaSignature="MCwCFHXsNoKv+mE5OUE18mLjcrn2mLiCAhRr3rkdzUtSlgGjbX+6QCth3Xu9Ng==" />
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.3.0 (screen recording feature)</title>
             <sparkle:releaseNotesLink>
                 https://raw.githubusercontent.com/tylerlong/glip-plus-dist/gh-pages/releases/0.3.0.md
             </sparkle:releaseNotesLink>
-            <pubDate>Wed, 04 Aug 2016 22:00:00 +0000</pubDate>
+            <pubDate>Thu, 04 Aug 2016 22:00:00 +0000</pubDate>
             <enclosure url="https://tylerlong.github.io/glip-plus-dist/releases/Glip-Plus-0.3.0.dmg" sparkle:version="3" sparkle:shortVersionString="0.3.0" length="3222144"
                 type="application/octet-stream" sparkle:dsaSignature="MCwCFBZ3ntaQlxDyf1otvv0RnQaL6aCVAhQGPf0WVxdk7mJJ6HMlqegh9rTN9w==" />
             <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>

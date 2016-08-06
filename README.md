@@ -18,11 +18,13 @@ Then follow the instructions below:
 
 ## Screenshot feature
 
-Press <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> to start screenshot.
+Press <kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> to start screenshot.
 
 Press <kbd>space</kbd> to toggle between mouse selection and window selection modes.
 
 Press <kbd>escape</kbd> to cancel screenshot.
+
+After the screenshot is taken, a preview window is shown where you can edit the screenshot.
 
 If the app has focus and there is a chat window, it will upload the screenshot automatically.
 
@@ -34,11 +36,9 @@ If the app doesn't have focus, the screenshot is saved into your pasteboard. You
 
 ## Screen recording feature
 
-Start recording by clicking the "Screen Recording" button in the toolbar.
+Start recording by pressing <kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd>.
 
-End recording by clicking the stop button in the menu bar.
-
-Please note that: click ![stop recording](images/stop-recording.png) **instead** of ![gear](images/gear.png) to end recording.
+End recording by clicking (images/stop-recording.png) on the menu bar.
 
 The result file will be saved onto your desktop in `.mov` format.
 
@@ -54,7 +54,7 @@ With Glip Plus, you can make a screen recording by simply 3 mouse clicks,
 which is much more convenient than using QuickTime Player directly.
 
 
-## Activate hotkey
+## Bring to front
 
 <kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>
 
@@ -75,5 +75,6 @@ You can also let it automatically download and install updates.
 ## Upcoming features
 
 - Send markdown with preview as image
-- Enhancement: after screenshot, allow user to edit. (similar to QQ screenshot)
 - Send video as animated gif
+- Scratchpad for long text
+- Desktop notifications
