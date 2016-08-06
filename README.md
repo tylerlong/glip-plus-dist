@@ -38,7 +38,7 @@ If the app doesn't have focus, the screenshot is saved into your pasteboard. You
 
 Start recording by pressing <kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd>.
 
-End recording by clicking (images/stop-recording.png) on the menu bar.
+End recording by clicking ![stop recording](images/stop-recording.png) on the menu bar.
 
 The result file will be saved onto your desktop in `.mov` format.
 
