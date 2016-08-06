@@ -26,9 +26,9 @@ Press <kbd>escape</kbd> to cancel screenshot.
 
 After the screenshot is taken, a preview window is shown where you can edit the screenshot.
 
-If the app has focus and there is a chat window, it will upload the screenshot automatically.
+The final screenshot is saved into your pasteboard. You can paste it anywhere you would like.
 
-If the app doesn't have focus, the screenshot is saved into your pasteboard. You can paste it anywhere you would like.
+If the app is not minimized and there is a chat window, it will upload the screenshot automatically.
 
 ![screenshot](images/screenshot.gif)
 
@@ -54,11 +54,12 @@ With Glip Plus, you can make a screen recording by simply 3 mouse clicks,
 which is much more convenient than using QuickTime Player directly.
 
 
+
 ## Bring to front
 
 <kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>
 
-This hotkey brings the app to the front of all other apps and position it to the central of your screen, even if the app is miniaturized.
+This hotkey brings the app to the front of all other apps and position it to the central of your screen, even if the app is minimized.
 
 
 
