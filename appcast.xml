@@ -6,6 +6,16 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 0.5.0 (Optimize screenshot process)</title>
+            <sparkle:releaseNotesLink>
+                https://raw.githubusercontent.com/tylerlong/glip-plus-dist/gh-pages/releases/0.5.0.md
+            </sparkle:releaseNotesLink>
+            <pubDate>Mon, 08 Aug 2016 00:44:43 +0000</pubDate>
+            <enclosure url="https://tylerlong.github.io/glip-plus-dist/releases/Glip-Plus-0.5.0.dmg" sparkle:version="5" sparkle:shortVersionString="0.5.0" length="3231188"
+                type="application/octet-stream" sparkle:dsaSignature="MCwCFEFf1iJDH05vKka2J9Ghew+6kzqaAhRh7zfMOk332Rx/j33VUaCo/ckgQQ==" />
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.4.0 (2 breaking changes, 2 new features, 2 bug fixes)</title>
             <sparkle:releaseNotesLink>
                 https://raw.githubusercontent.com/tylerlong/glip-plus-dist/gh-pages/releases/0.4.0.md
