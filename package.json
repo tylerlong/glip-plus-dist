@@ -4,7 +4,7 @@
   "description": "Glip Plus is [Glip](https://glip.com) with extra features.",
   "main": "index.js",
   "scripts": {
-    "dmg": "appdmg appdmg/appdmg.json releases/Glip-Plus.dmg"
+    "release": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tylerlong/glip-plus-dist#readme",
   "devDependencies": {
-    "appdmg": "^0.4.5"
+    "appdmg": "^0.4.5",
+    "moment": "^2.14.1"
   }
 }

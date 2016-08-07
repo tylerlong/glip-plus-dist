@@ -1,2 +1,4 @@
 node_modules/
 appdmg/Glip Plus.app/
+appdmg/*.pem
+appdmg/sign_update
