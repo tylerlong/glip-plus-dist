@@ -8,7 +8,7 @@ Glip Plus provides extra features to [Glip](https://glip.com).
 
 ## Install
 
-### :point_right: [download](https://tylerlong.github.io/glip-plus-dist/releases/Glip-Plus-0.3.0.dmg) :point_left:
+### :point_right: [download](https://github.com/tylerlong/glip-plus-dist/tree/gh-pages/releases) :point_left:
 
 Then follow the instructions below:
 
