@@ -34,6 +34,12 @@ If the app is not minimized and there is a chat window, it will upload the scree
 
 
 
+## Translation feature
+
+![translation](images/translation.gif)
+
+
+
 ## Screen recording feature
 
 Start recording by pressing <kbd>Ctrl</kbd> + <kbd>Command</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd>.
