@@ -4,6 +4,8 @@ Glip Plus provides extra features to [Glip](https://glip.com).
 
 ![Glip Plus](images/icon.png)
 
+![Glip Plus](images/glip-plus.png)
+
 
 
 ## Install
