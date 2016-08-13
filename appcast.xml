@@ -6,6 +6,16 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 0.7.0 (Add title bar buttons)</title>
+            <sparkle:releaseNotesLink>
+                https://raw.githubusercontent.com/tylerlong/glip-plus-dist/gh-pages/releases/0.7.0.md
+            </sparkle:releaseNotesLink>
+            <pubDate>Sat, 13 Aug 2016 10:07:49 +0000</pubDate>
+            <enclosure url="https://tylerlong.github.io/glip-plus-dist/releases/Glip-Plus-0.7.0.dmg" sparkle:version="7" sparkle:shortVersionString="0.7.0" length="3242824"
+                type="application/octet-stream" sparkle:dsaSignature="MCwCFEFr88H6Z13MpPMlv79O3IY76TkhAhR1yPiCeY9EvonUz/JttV7IVv0Pgg==" />
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.6.0 (Add translation feature)</title>
             <sparkle:releaseNotesLink>
                 https://raw.githubusercontent.com/tylerlong/glip-plus-dist/gh-pages/releases/0.6.0.md

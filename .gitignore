@@ -4,3 +4,4 @@ appdmg/*.pem
 appdmg/sign_update
 *.js
 typings/
+*.map
