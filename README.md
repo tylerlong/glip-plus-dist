@@ -83,7 +83,6 @@ You can also let it automatically download and install updates.
 
 ## Upcoming features
 
-- Send markdown with preview as image
 - Send video as animated gif
 - Scratchpad for long text
 - Desktop notifications

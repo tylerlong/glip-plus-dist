@@ -1,0 +1,15 @@
+# Notes for developers
+
+
+## Setup
+
+Get `dsa_priv.pem` and place it into `appdmg/` folder. Files ending with *.pem should NOT be committed into git.
+
+Download https://sparkle-project.org/ and unzip it. Place `sign_update` file into `appdmg/` folder.
+
+Run command `npm install` to install all node dependencies.
+
+
+## Release new version
+
+Develop the new version in XCode. Archive and export it as "" when it's ready.
