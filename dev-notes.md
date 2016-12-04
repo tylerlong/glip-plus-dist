@@ -12,4 +12,6 @@ Run command `npm install` to install all node dependencies.
 
 ## Release new version
 
-Develop the new version in XCode. Archive and export it as "" when it's ready.
+Develop the new version in XCode. 
+
+Archive and "Export a Developer ID-signed Application".
