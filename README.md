@@ -30,8 +30,6 @@ After the screenshot is taken, a preview window is shown where you can edit the 
 
 The final screenshot is saved into your pasteboard. You can paste it anywhere you would like.
 
-If the app is not minimized and there is a chat window, it will upload the screenshot automatically.
-
 ![screenshot](images/screenshot.gif)
 
 

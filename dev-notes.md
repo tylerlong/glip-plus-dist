@@ -29,4 +29,6 @@ Commit and push to GitHub.
 
 ## todo
 
-Make it auto create `releases/<version>.md`.
+- Make it auto create `releases/<version>.md`.
+- Update readme
+- Update npm libraries

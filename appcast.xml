@@ -6,6 +6,16 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.0 (3 feature changes, 2 bug fixes)</title>
+            <sparkle:releaseNotesLink>
+                https://raw.githubusercontent.com/tylerlong/glip-plus-dist/gh-pages/releases/1.0.0.md
+            </sparkle:releaseNotesLink>
+            <pubDate>Mon, 05 Dec 2016 19:24:14 +0000</pubDate>
+            <enclosure url="https://tylerlong.github.io/glip-plus-dist/releases/Glip-Plus-1.0.0.dmg" sparkle:version="10" sparkle:shortVersionString="1.0.0" length="5842736"
+                type="application/octet-stream" sparkle:dsaSignature="MCwCFEMpWpBrPj8Y0RkXdeOADInf74vHAhQtF9xZU7Qor1KlBKQhOSCAq5P8+w==" />
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 0.9.0 (Fix notification badge issue)</title>
             <sparkle:releaseNotesLink>
                 https://raw.githubusercontent.com/tylerlong/glip-plus-dist/gh-pages/releases/0.9.0.md
