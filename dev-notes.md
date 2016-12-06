@@ -27,12 +27,6 @@ npm run release <version> <build>
 
 Copy paste terminal output to `appcast.xml`, edit it properly.
 
-Create and edit `releases/<version>.md`.
+Edit `releases/<version>.md` to provide release notes.
 
 Commit and push to GitHub.
-
-
-## Todo
-
-- Make it auto create `releases/<version>.md`.
-- Update readme

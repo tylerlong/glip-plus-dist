@@ -5,7 +5,7 @@ const build = process.argv[3];
 const filePath = `releases/Glip-Plus-${version}.dmg`;
 
 // generate dmg
-exec(`appdmg appdmg/appdmg.json ${filePath}`, function(error, stdout, stderr) {
+exec(`appdmg appdmg/appdmg.json ${filePath}`, function (error, stdout, stderr) {
     // get file size
     const fs = require('fs');
     const fileSize = fs.statSync(filePath)['size'];
@@ -15,7 +15,7 @@ exec(`appdmg appdmg/appdmg.json ${filePath}`, function(error, stdout, stderr) {
     const dateStr = moment().format('ddd, DD MMM Y HH:mm:ss +0000');
 
     // get dsa signature
-    exec(`appdmg/sign_update ${filePath} appdmg/dsa_priv.pem`, function(error, stdout, stderr) {
+    exec(`appdmg/sign_update ${filePath} appdmg/dsa_priv.pem`, function (error, stdout, stderr) {
         const dsaSignature = stdout.trim();
         console.log(`
     <item>
@@ -30,4 +30,7 @@ exec(`appdmg appdmg/appdmg.json ${filePath}`, function(error, stdout, stderr) {
     </item>
     `);
     });
+
+    // create release notes markdown file
+    fs.writeFile(`releases/${version}.md`, `# Glip Plus ${version}`, function (error) { });
 });
