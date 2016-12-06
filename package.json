@@ -4,7 +4,8 @@
   "description": "Glip Plus is [Glip](https://glip.com) with extra features.",
   "main": "index.js",
   "scripts": {
-    "release": "node index.js"
+    "release": "node index.js",
+    "upgrade": "ncu -ua && npm install"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/tylerlong/glip-plus-dist#readme",
   "devDependencies": {
     "appdmg": "^0.4.5",
-    "moment": "^2.14.1"
+    "moment": "^2.17.1",
+    "npm-check-updates": "^2.8.8"
   }
 }

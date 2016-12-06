@@ -10,6 +10,11 @@ Download https://sparkle-project.org/ and unzip it. Place `sign_update` file int
 Run command `npm install` to install all node dependencies.
 
 
+## Upgrade npm libries
+
+npm run upgrade
+
+
 ## Release new version
 
 Develop the new version in XCode. 
@@ -27,8 +32,7 @@ Create and edit `releases/<version>.md`.
 Commit and push to GitHub.
 
 
-## todo
+## Todo
 
 - Make it auto create `releases/<version>.md`.
 - Update readme
-- Update npm libraries
