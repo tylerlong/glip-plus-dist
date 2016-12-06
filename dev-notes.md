@@ -30,3 +30,8 @@ Copy paste terminal output to `appcast.xml`, edit it properly.
 Edit `releases/<version>.md` to provide release notes.
 
 Commit and push to GitHub.
+
+
+## Todo
+
+Update `images/screenshot.gif`.
