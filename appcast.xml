@@ -6,6 +6,16 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.1 (Fix screenshot preview blank issue)</title>
+            <sparkle:releaseNotesLink>
+                https://raw.githubusercontent.com/tylerlong/glip-plus-dist/gh-pages/releases/1.0.1.md
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 25 Jan 2017 15:22:58 +0000</pubDate>
+            <enclosure url="https://tylerlong.github.io/glip-plus-dist/releases/Glip-Plus-1.0.1.dmg" sparkle:version="11" sparkle:shortVersionString="1.0.1" length="3842238"
+                type="application/octet-stream" sparkle:dsaSignature="MCwCFDixRVVNDn2uosYdARdYDD6CexeBAhQPoerxM1nAV6LoSWHmPp/L7Kw7Uw==" />
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.0.0 (3 feature changes, 2 bug fixes)</title>
             <sparkle:releaseNotesLink>
                 https://raw.githubusercontent.com/tylerlong/glip-plus-dist/gh-pages/releases/1.0.0.md
