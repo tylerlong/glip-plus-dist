@@ -36,4 +36,5 @@ Commit and push to GitHub.
 
 ## Todo
 
-Update `images/screenshot.gif`.
+- Update `images/screenshot.gif`.
+- Release to homebrew
